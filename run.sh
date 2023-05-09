@@ -1,1 +1,0 @@
-npm run build && http-server -c-1
